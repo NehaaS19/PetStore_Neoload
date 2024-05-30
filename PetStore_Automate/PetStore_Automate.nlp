@@ -1,0 +1,14 @@
+# Project description file
+
+project.name=PetStore_Automate
+project.version=8.3
+project.original.version=8.3
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.version=7.11.4
+product.original.version=7.11.4
+project.is-open-test-settings-after-upload=false
+project.id=390983f7-e2a2-4d1c-8daa-f81988f3c76a
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false

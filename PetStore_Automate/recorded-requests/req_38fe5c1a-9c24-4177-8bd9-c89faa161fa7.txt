@@ -1,0 +1,21 @@
+POST https://petstore.octoperf.com/actions/Order.action HTTP/2.0
+content-length: 570
+cache-control: max-age=0
+sec-ch-ua: "Microsoft Edge";v="119", "Chromium";v="119", "Not?A_Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+upgrade-insecure-requests: 1
+origin: https://petstore.octoperf.com
+content-type: application/x-www-form-urlencoded
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+referer: https://petstore.octoperf.com/actions/Order.action?newOrderForm=
+accept-encoding: gzip, deflate, br
+accept-language: en-GB,en;q=0.9,en-US;q=0.8
+cookie: JSESSIONID=4D6B58B0C973BC4AC714776DD830A224
+
+order.cardType=MasterCard&order.creditCard=999+9999+9999+9999&order.expiryDate=12%2F03&order.billToFirstName=Tayne&order.billToLastName=Head&order.billAddress1=901+San+Antonio+Road&order.billAddress2=MS+UCUP02-206&order.billCity=Palo+Alto&order.billState=CA&order.billZip=94303&order.billCountry=USA&newOrder=Continue&_sourcePage=4l2Toca-4wKCrmXde91IRIGmMUw1vkOyXNsxLzG3lhvca7Z5W8C9dU8VG-nPM24OO2E4LrroWL0Mw99Y1c_OU8tZopKV9jXGdR-3ZWNJ0tQ%3D&__fp=ASz9nOZZ5HRzkOS2yQvYRtBnZXoYQ2QWRt9i2JCCFCJr2ZyzILHbpT6kf47k6l7NgtnZQCsfORx3yRDVjedmrlghNs7ulwEyBBToUpQg6CHdS7JPKdi38Q%3D%3D

@@ -1,0 +1,14 @@
+GET https://petstore.octoperf.com/images/birds_icon.gif HTTP/2.0
+sec-ch-ua: "Microsoft Edge";v="119", "Chromium";v="119", "Not?A_Brand";v="24"
+sec-ch-ua-mobile: ?0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
+sec-ch-ua-platform: "Windows"
+accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+sec-fetch-site: same-origin
+sec-fetch-mode: no-cors
+sec-fetch-dest: image
+referer: https://petstore.octoperf.com/actions/Catalog.action
+accept-encoding: gzip, deflate, br
+accept-language: en-GB,en;q=0.9,en-US;q=0.8
+cookie: JSESSIONID=4D6B58B0C973BC4AC714776DD830A224
+
